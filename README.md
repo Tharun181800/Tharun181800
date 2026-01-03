@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p>I am a Full Stack developer skilled in HTML, CSS, JavaScript, and React.js for frontend development, with Java as my backend language and basic knowledge of MYSQL.</p>
+<p>Eager to contribute, learn, and 
+deliver quality code in collaborative environments. Committed to continuous learning and adapting to new 
+technologies. </p>
 
 - 🌱 I’m currently learning **Node.js**
 
